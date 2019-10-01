@@ -1,6 +1,16 @@
 # Robert Long
 
+## Career Objectives
+
 ## Current Projects
 
-* Test Project 1
-* Test Project 2
+* [Endless Evil](endless-evil/)
+
+## Education
+
+## Employment
+
+## Links
+
+* [Linkedin](https://www.linkedin.com/in/robert-long-776996191/)
+
