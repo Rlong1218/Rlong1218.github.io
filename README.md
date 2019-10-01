@@ -1,5 +1,3 @@
-# Robert Long
-
 ## Career Objectives
 
 ## Current Projects
